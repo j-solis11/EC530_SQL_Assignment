@@ -1,6 +1,6 @@
-# ChatSheet: SQLite Query Assistant
+# SQLite Query Assistant
 
-ChatSheet is a Python-based tool that allows you to interact with an SQLite database using natural language queries. It sends your query to OpenAI's API, retrieves the SQL query, and executes it on your SQLite database. The tool also provides an explanation of the query and outputs the results in the terminal.
+A Python-based tool that allows you to interact with an SQLite database using natural language queries. It sends your query to OpenAI's API, retrieves the SQL query, and executes it on your SQLite database. The tool also provides an explanation of the query and outputs the results in the terminal.
 
 ## Features:
 - Interact with SQLite database using natural language queries.
