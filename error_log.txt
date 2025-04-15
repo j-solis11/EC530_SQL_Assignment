@@ -1,0 +1,15 @@
+[Tue Apr 15 01:31:12 2025] near "1": syntax error
+[Tue Apr 15 01:32:49 2025] near "chatsheet": syntax error
+[Tue Apr 15 01:33:07 2025] near "chatsheet": syntax error
+[Tue Apr 15 01:35:04 2025] near "1": syntax error
+[Tue Apr 15 01:49:12 2025] near "1": syntax error
+[Tue Apr 15 01:51:48 2025] near "1": syntax error
+[Tue Apr 15 01:53:41 2025] near "1": syntax error
+[Tue Apr 15 01:54:16 2025] Error
+[Tue Apr 15 01:54:54 2025] Error
+[Tue Apr 15 01:54:59 2025] Error
+[Tue Apr 15 01:55:48 2025] Error
+[Tue Apr 15 01:56:41 2025] Error
+[Tue Apr 15 01:57:54 2025] Error
+[Tue Apr 15 01:59:45 2025] Error
+[Tue Apr 15 02:00:56 2025] near "test_table": syntax error
